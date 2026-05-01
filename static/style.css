@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: Arial;
+  margin-top: 50px;
+}
+
+img {
+  width: 300px;
+  display: block;
+  margin: 0 auto 20px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
